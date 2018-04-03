@@ -3,18 +3,17 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
     <groupId>com.harium.etyl</groupId>
-    <artifactId>etyl-gdx</artifactId>
-    <version>1.0</version>
+    <artifactId>etyl-gdx-util</artifactId>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
-    <name>Etyl GDX</name>
-    <description>A Libgdx fork to be used in etyl</description>
+    <name>Etyl GDX Util</name>
+    <description>A subset of LibGDX without native dependencies</description>
     <url>http://github.com/harium/etyl-gdx</url>
     <scm>
-        <connection>scm:git:git://github.com/harium/etyl-gdx.git</connection>
-        <developerConnection>scm:git:ssh://github.com:harium/etyl-gdx.git</developerConnection>
-        <url>http://github.com/harium/etyl-gdx/tree/master</url>
+        <connection>scm:git:git://github.com/harium/etyl-gdx-util.git</connection>
+        <developerConnection>scm:git:ssh://github.com:harium/etyl-gdx-util.git</developerConnection>
+        <url>http://github.com/harium/etyl-gdx-util/</url>
     </scm>
     <licenses>
         <license>
